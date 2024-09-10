@@ -21,3 +21,12 @@
                     </head>
                 </html>
 
+
+4. # Inserting Images
+    
+    - Open the file containing the Linux mascot.
+    - Marvel at its beauty.
+
+        ![Tux, the Linux mascot](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
+
+    - Close the file.
